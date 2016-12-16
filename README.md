@@ -2,6 +2,8 @@
 
 [Backtrace](http://backtrace.io/) error reporting tool for Node.js.
 
+This is one of the most awesome tools I have ever seen.
+
 ## Usage
 
 ```js
